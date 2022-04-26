@@ -1,3 +1,5 @@
+Este é um projeto para estudo de React JS. Foi tirado do canal Pasquadev e o tutorial foi feito pelo Vinícius do Pasquadev. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
